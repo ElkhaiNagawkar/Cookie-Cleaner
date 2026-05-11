@@ -1,1 +1,1 @@
-# Cookie-Cleaner
+# Cookie-Cleaner - Burp Extension
