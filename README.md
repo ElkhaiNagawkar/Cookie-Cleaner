@@ -10,4 +10,7 @@ Cookie Cleaner is a Burp Suite extension that gives you full control over which 
   - **Manual Cookie Addition** - If a cookie has not been scanned by the extension or a cookie has not been moved to the "Removed Cookies" table, you can manually do so by hightlighting the cookie in your reqeust and using the context menu to add it to be filtered out.
   - **Multiple Cookie Addition** - You may manually select multiple cookies to be added to the extension to be removed. Do this by highlighting full cookies (name + value) or the full Cookie header.
 
+### Usage
+  - Download the latest JAR file and add it to your Burp Suite project.
+
 ![Cookie Cleaner](attachments/cookie-cleaner.png)
